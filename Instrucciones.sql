@@ -1,9 +1,3 @@
--- PLANTILLA DE ENTREGA DE LA PARTE PRÁCTICA DE LAS ACTIVIDADES
--- --------------------------------------------------------------
--- Actividad: AA4(FP.055)
---
--- Estudiante: Antoni Fernández Almécija
---
 -- Database: gym
 -- --------------------------------------------------------------
 --
